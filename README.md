@@ -2,7 +2,7 @@
 En este repo se subiran todas las presentaciones.
 
 Integrantes:
-Cristoper Parra
-Joaquin Valenzuela
-Deris Aranguiz
+Cristoper Parra,
+Joaquin Valenzuela,
+Deris Aranguiz,
 Gerlac Reyes
